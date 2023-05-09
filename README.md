@@ -1,6 +1,6 @@
 # odin-recipes
 This project is my first solo project for the Odin Project Curriculum.
-I am using this oppurtunity to practice the skills necessary for website 
+I am using this opportunity to practice the skills necessary for website 
 building.
 
 I will be practicing different coding, image dropping, using the command
