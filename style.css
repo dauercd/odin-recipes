@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(125, 78, 7);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.head {
+    color: greenyellow;
+    font-size: xx-large;
+}
+.bullet {
+    color: green;
+    font-size: medium;
+}
+
+.text-center {
+    text-align: center;
+  }
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
